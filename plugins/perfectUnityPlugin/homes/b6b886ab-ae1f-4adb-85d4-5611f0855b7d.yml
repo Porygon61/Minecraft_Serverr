@@ -1,0 +1,667 @@
+base:
+  world: world
+  x: -1250.7857197872522
+  y: 69.0
+  z: -771.5963489741871
+  yaw: 88.35089
+  pitch: 0.1495976
+  icon: COMMAND_BLOCK
+xpfarm:
+  world: world
+  x: -1242.8602399444374
+  y: 197.5
+  z: -814.9289791474919
+  yaw: -179.84874
+  pitch: -2.2498724
+  icon: SKELETON_SPAWN_EGG
+iron:
+  world: world
+  x: -1194.657712745788
+  y: 39.0
+  z: -808.5039923172579
+  yaw: -0.30136108
+  pitch: 18.750021
+  icon: IRON_INGOT
+nethermining:
+  world: world_nether
+  x: -107.97912450347442
+  y: 59.0
+  z: -28.65188451037007
+  yaw: -179.1023
+  pitch: 11.699959
+  icon: NETHERITE_PICKAXE
+rider:
+  world: world_nether
+  x: -2217.8778737541456
+  y: 33.0
+  z: -1544.699999988079
+  yaw: 83.24997
+  pitch: 36.150093
+  icon: WARPED_FUNGUS_ON_A_STICK
+fortress2:
+  world: world_nether
+  x: -170.7062159876289
+  y: 60.0
+  z: -524.5032887758836
+  yaw: -176.281
+  pitch: 27.150164
+fortress1:
+  world: world_nether
+  x: -624.1561612974258
+  y: 55.0
+  z: -431.6790338356681
+  yaw: -113.69824
+  pitch: 34.650143
+fortress3:
+  world: world_nether
+  x: -1243.8755646615755
+  y: 67.0
+  z: -1095.802421557062
+  yaw: 36.751343
+  pitch: 30.149906
+netherprogress:
+  world: world_nether
+  x: -2170.699999988079
+  y: 32.0
+  z: -1366.300000011921
+  yaw: 170.5513
+  pitch: 27.449999
+remnant_treasureroom:
+  world: world_nether
+  x: -2214.300000011921
+  y: 82.0
+  z: -1548.3018859301374
+  yaw: 141.44705
+  pitch: 11.550024
+remnant_stables1:
+  world: world_nether
+  x: -1963.4703989640261
+  y: 50.0
+  z: -1220.0281908875054
+  yaw: 76.34839
+  pitch: 23.100143
+exploringprogress:
+  world: world
+  x: -4040.3034099382144
+  y: 73.0
+  z: 1840.82669843338
+  yaw: 77.89661
+  pitch: 65.099945
+reddesert:
+  world: world
+  x: -1952.144945607973
+  y: 135.0
+  z: 236.47212369714597
+  yaw: 78.750114
+  pitch: 49.200127
+savanna_village1:
+  world: world
+  x: -4065.6021820148494
+  y: 73.0
+  z: 1836.4643247246802
+  yaw: 119.85013
+  pitch: 35.700043
+savanna_village2:
+  world: world
+  x: -4193.434408678973
+  y: 71.0
+  z: 1488.6813080786792
+  yaw: 28.050781
+  pitch: 21.750002
+plains_village1:
+  world: world
+  x: -337.26792426071285
+  y: 69.0
+  z: -3489.5027885814875
+  yaw: 123.750885
+  pitch: 31.499985
+big_plains:
+  world: world
+  x: -126.98754831379168
+  y: 95.0
+  z: -3476.5335809927396
+  yaw: 82.050964
+  pitch: 27.749985
+cherry_grove1:
+  world: world
+  x: -72.99750058420113
+  y: 109.0
+  z: -3409.3056428725945
+  yaw: -159.74911
+  pitch: 8.849987
+cherry_grove2:
+  world: world
+  x: 412.59104737853914
+  y: 108.0
+  z: -3118.1346811193084
+  yaw: -171.44913
+  pitch: 8.099988
+  icon: CHERRY_LOG
+plains_village2:
+  world: world
+  x: 243.58924128659012
+  y: 62.9375
+  z: -3779.5929453139734
+  yaw: -66.300415
+  pitch: 21.90025
+savanna_village3:
+  world: world
+  x: -489.2711966878799
+  y: 111.0
+  z: 102.03764614763001
+  yaw: 105.448
+  pitch: 22.349882
+cave1:
+  world: world
+  x: 167.87552396513553
+  y: 73.0
+  z: -107.52438062266204
+  yaw: -130.57654
+  pitch: 41.400085
+  icon: STONE
+dark_oak1:
+  world: world
+  x: 125.20254389980879
+  y: 95.0
+  z: 118.74733084065848
+  yaw: -175.13696
+  pitch: 15.300055
+  icon: DARK_OAK_LOG
+lush:
+  world: world
+  x: 99.39364197064674
+  y: 17.0
+  z: 369.69999998807907
+  yaw: 119.407
+  pitch: 23.549871
+  icon: AZALEA
+cows:
+  world: world
+  x: -173.3287220732873
+  y: 68.0
+  z: 24.4011411149504
+  yaw: -55.94934
+  pitch: 36.89998
+  icon: COW_SPAWN_EGG
+mineshaft1:
+  world: world
+  x: -1153.653579032493
+  y: -32.0
+  z: -806.9676473759852
+  yaw: -37.97168
+  pitch: 29.5501
+amethyst:
+  world: world
+  x: -1199.1485015114908
+  y: -26.0
+  z: -757.9196096786658
+  yaw: 176.39932
+  pitch: 35.700146
+  icon: AMETHYST_BLOCK
+jungle1:
+  world: world
+  x: -1120.4616381598605
+  y: 69.0
+  z: -1618.6530441148261
+  yaw: 149.81284
+  pitch: 25.04988
+  icon: JUNGLE_LOG
+end_portal:
+  world: world
+  x: -1054.5813419556446
+  y: -24.5
+  z: -1594.1265961211284
+  yaw: 0.13964844
+  pitch: 15.000033
+  icon: END_PORTAL_FRAME
+the_end:
+  world: world_the_end
+  x: 91.82205844643342
+  y: 58.0
+  z: -16.012419480701137
+  yaw: 97.05029
+  pitch: 11.100279
+  icon: END_STONE
+end_gateway_entrance:
+  world: world_the_end
+  x: 811.8608685159946
+  y: 61.0
+  z: 587.3986478747446
+  yaw: -45.451736
+  pitch: 12.90041
+  icon: CHORUS_PLANT
+end_city:
+  world: world_the_end
+  x: 1053.556414107478
+  y: 112.0
+  z: 380.51355736776543
+  yaw: 69.17456
+  pitch: 51.75025
+  icon: PURPUR_BLOCK
+end_city_boat:
+  world: world_the_end
+  x: 1110.2530641762116
+  y: 132.0
+  z: 403.66661736315183
+  yaw: -62.268555
+  pitch: 36.299953
+woodland_mansion:
+  world: world
+  x: 1309.8734594744412
+  y: 82.0
+  z: -2147.7193737044427
+  yaw: 169.35193
+  pitch: 16.499983
+mushroom_island1:
+  world: world
+  x: 2264.030595795202
+  y: 72.0
+  z: -2652.0604130184497
+  yaw: 135.92041
+  pitch: 21.150007
+guardian_temple:
+  world: world
+  x: 2329.5899360633234
+  y: 62.039652893249546
+  z: -3770.7425099133657
+  yaw: 113.448975
+  pitch: 16.34992
+guardian_temple2:
+  world: world
+  x: 2680.8493378273592
+  y: 59.62691820530943
+  z: -3176.2556538237127
+  yaw: 61.54297
+  pitch: 4.949876
+raid_farm:
+  world: world
+  x: -817.3608587551399
+  y: 63.0
+  z: -1200.5516828232699
+  yaw: -41.95064
+  pitch: 18.450602
+  icon: TOTEM_OF_UNDYING
+temp:
+  world: world
+  x: -1262.9392461237433
+  y: 68.0
+  z: -771.5819955156445
+  yaw: -32.400024
+  pitch: 31.349977
+  icon: MAP
+snow_mountain1:
+  world: world
+  x: -2742.987947582761
+  y: 116.0
+  z: -816.5050329394811
+  yaw: -49.951233
+  pitch: 14.100015
+spruce_forest1:
+  world: world
+  x: -2620.324224554886
+  y: 94.0
+  z: -1929.4945323243512
+  yaw: -92.10339
+  pitch: 11.400166
+  icon: SPRUCE_LOG
+cherry_grove3:
+  world: world
+  x: -2682.397674571905
+  y: 100.0
+  z: -2258.146666148489
+  yaw: -55.51001
+  pitch: 10.950186
+  icon: CHERRY_LOG
+pillager_outpost1:
+  world: world
+  x: -2887.4716350749477
+  y: 83.0
+  z: -1896.353442828002
+  yaw: 32.721924
+  pitch: 50.40026
+ominous_bottle_farm_afk:
+  world: world
+  x: -2886.5877592717698
+  y: 187.0
+  z: -1896.300000011921
+  yaw: 164.85065
+  pitch: 60.59994
+  icon: OMINOUS_BOTTLE
+ominous_bottle_farm_loot:
+  world: world
+  x: -2886.487500011921
+  y: 58.875
+  z: -1889.6922881365608
+  yaw: -11.700073
+  pitch: 75.74992
+  icon: OMINOUS_BOTTLE
+remnant_stables2:
+  world: world_nether
+  x: -2740.2717383883582
+  y: 80.0
+  z: -1150.699999988079
+  yaw: 73.66211
+  pitch: 56.100014
+miningprogress:
+  world: world
+  x: -2416.828664671387
+  y: -49.0
+  z: -1811.8870883528446
+  yaw: -119.09314
+  pitch: 29.399977
+spider_spawner:
+  world: world
+  x: -2412.2650337884693
+  y: -39.0
+  z: -1849.852362028393
+  yaw: 2.557373
+  pitch: 30.149769
+  icon: SPAWNER
+mineshaft2:
+  world: world
+  x: -2410.000934951546
+  y: -43.0
+  z: -1771.2308563193667
+  yaw: -59.993164
+  pitch: 10.949826
+spider_spawner2:
+  world: world
+  x: -2479.9525514959405
+  y: -52.0
+  z: -1804.522420910197
+  yaw: 141.90552
+  pitch: 31.499954
+  icon: SPAWNER
+cave2:
+  world: world
+  x: -2466.699999988079
+  y: -16.0
+  z: -1874.5346589849592
+  yaw: -136.34875
+  pitch: 46.200077
+plains_village3:
+  world: world
+  x: -710.5764430449215
+  y: 64.0
+  z: -3207.2146517940787
+  yaw: -62.979492
+  pitch: 25.050009
+plains_village4:
+  world: world
+  x: -1847.699999988079
+  y: 76.0
+  z: -2019.5175996089272
+  yaw: -151.50037
+  pitch: 24.450022
+plains_village5:
+  world: world
+  x: -2557.2181156537927
+  y: 126.0
+  z: -2422.0985734419796
+  yaw: -51.614746
+  pitch: 24.600142
+taiga_village1:
+  world: world
+  x: -2983.951108203201
+  y: 80.0
+  z: -3428.300000011921
+  yaw: 132.67383
+  pitch: 34.2002
+coral_reef:
+  world: world
+  x: -4463.234628352978
+  y: 58.80324140544075
+  z: 1600.3069798422332
+  yaw: -30.150116
+  pitch: 9.14999
+  icon: HORN_CORAL
+jungle2:
+  world: world
+  x: -5353.355972659579
+  y: 93.0
+  z: 2724.068914659976
+  yaw: -138.00464
+  pitch: 36.750072
+  icon: JUNGLE_LOG
+cherry_grove4:
+  world: world
+  x: -5460.973655521896
+  y: 92.0
+  z: 3087.7755871229097
+  yaw: -86.099396
+  pitch: 38.100002
+  icon: CHERRY_LOG
+snowy_taiga_village:
+  world: world
+  x: -7594.605899125621
+  y: 93.0
+  z: 5202.699999988079
+  yaw: -66.450806
+  pitch: 22.950062
+nether_roof:
+  world: world_nether
+  x: -133.69999998807907
+  y: 128.0
+  z: -87.6983381256126
+  yaw: -168.3125
+  pitch: 27.450005
+hoglin_farm_nether_roof:
+  world: world_nether
+  x: -3468.2396238249835
+  y: 128.0
+  z: -734.6453050565434
+  yaw: -177.00244
+  pitch: 2.2501047
+savanna_village4:
+  world: world
+  x: -1223.0712383083448
+  y: 63.0
+  z: 1109.4795443071735
+  yaw: 92.87158
+  pitch: 12.3000765
+swamp:
+  world: world
+  x: -1130.4578072935233
+  y: 72.0
+  z: 2626.510255080264
+  yaw: 2.2197266
+  pitch: 36.450287
+guardian_temple3:
+  world: world
+  x: -2391.1527807139714
+  y: 59.15665164819132
+  z: 1250.1467830958143
+  yaw: -74.24939
+  pitch: 8.249927
+plains_village6:
+  world: world
+  x: -1064.8756124577185
+  y: 76.0
+  z: -4738.478637065185
+  yaw: -96.74896
+  pitch: 14.699842
+plains_village7:
+  world: world
+  x: -1411.9788385118807
+  y: 63.0
+  z: 3857.924222700641
+  yaw: -36.757202
+  pitch: 8.550127
+spruce_forest2:
+  world: world
+  x: 529.4850418240394
+  y: 76.0
+  z: 4189.6456349042555
+  yaw: 98.84253
+  pitch: 43.349983
+  icon: SPRUCE_LOG
+guardian_temple4:
+  world: world
+  x: 829.2349465422141
+  y: 71.75049055402671
+  z: 4256.516768479237
+  yaw: -169.94897
+  pitch: -44.7004
+snow_mountain2:
+  world: world
+  x: 1012.5880864557757
+  y: 191.0
+  z: 3178.514567872802
+  yaw: 125.30591
+  pitch: 58.20003
+ancient_city1:
+  world: world
+  x: 945.5329746886571
+  y: -50.0
+  z: 3077.539242258975
+  yaw: 56.399597
+  pitch: 12.300028
+  icon: SCULK
+pale_forest1:
+  world: world
+  x: 1203.7707781472702
+  y: 118.0
+  z: 2224.5080618396187
+  yaw: 144.90114
+  pitch: 47.100082
+  icon: PALE_OAK_LOG
+lush2:
+  world: world
+  x: 1481.2504182003506
+  y: 20.0
+  z: 2243.716182841231
+  yaw: 33.009033
+  pitch: 33.599995
+  icon: AZALEA
+skeleton_spawner1:
+  world: world
+  x: 1383.107303700438
+  y: -26.0
+  z: 2196.6697909404807
+  yaw: 46.79718
+  pitch: 39.15055
+  icon: SPAWNER
+skeleton_spawner2:
+  world: world
+  x: 1435.034767548857
+  y: -36.0
+  z: 2182.312220038938
+  yaw: 153.59485
+  pitch: 34.95057
+  icon: SPAWNER
+spider_spawner3:
+  world: world
+  x: 1429.6329277280638
+  y: -10.0
+  z: 2314.699999988079
+  yaw: 107.849365
+  pitch: 32.850193
+  icon: SPAWNER
+zombie_spawner1:
+  world: world
+  x: 1423.392746331375
+  y: -24.0
+  z: 2276.091737380829
+  yaw: 23.850647
+  pitch: 39.44989
+  icon: SPAWNER
+zombie_spawner2:
+  world: world
+  x: 1576.3970987800012
+  y: -45.0
+  z: 2241.5802247843635
+  yaw: 4.203003
+  pitch: 38.699677
+  icon: SPAWNER
+zombie_spawner3:
+  world: world
+  x: 1532.5327865467682
+  y: -16.0
+  z: 2196.046075484633
+  yaw: 3.1608887
+  pitch: 43.799522
+  icon: SPAWNER
+lush3:
+  world: world
+  x: 1713.300000011921
+  y: 12.0
+  z: 2261.2389961747995
+  yaw: 145.05133
+  pitch: 11.700258
+  icon: AZALEA
+zombie_spawner4:
+  world: world
+  x: 1805.1867965301176
+  y: 0.0
+  z: 2142.6335199320793
+  yaw: 124.94812
+  pitch: 36.89977
+  icon: SPAWNER
+spider_spawner4:
+  world: world
+  x: 1787.7221080229203
+  y: -1.0
+  z: 2058.7827924735643
+  yaw: 3.598999
+  pitch: 38.549866
+  icon: SPAWNER
+spider_spawner5:
+  world: world
+  x: -1154.9931934178271
+  y: -31.0
+  z: -839.325567158225
+  yaw: 108.90506
+  pitch: 28.949974
+  icon: SPAWNER
+wither_farm:
+  world: world_nether
+  x: -1185.0901395488743
+  y: 199.0
+  z: -1087.302634173041
+  yaw: 176.7007
+  pitch: 7.8002234
+  icon: WITHER_SKELETON_SKULL
+reddesert2:
+  world: world
+  x: -9670.470629360936
+  y: 107.0
+  z: -8753.767861264647
+  yaw: 7.213623
+  pitch: -14.999945
+  icon: ORANGE_TERRACOTTA
+wither_farm_portal:
+  world: world
+  x: -9464.583028318802
+  y: -26.0
+  z: -8520.738286297728
+  yaw: -155.8158
+  pitch: 36.600605
+wither_farm_spawn_area:
+  world: world_nether
+  x: -1183.591399447053
+  y: 72.0
+  z: -1082.7037872745434
+  yaw: 178.35034
+  pitch: 20.700035
+wither_farm_overworld:
+  world: world
+  x: -9472.411418483756
+  y: 206.0
+  z: -8693.246708553557
+  yaw: 177.15033
+  pitch: 48.29974
+good_spot1:
+  world: world
+  x: -1566.3713322337385
+  y: 172.0
+  z: -109.19569236020321
+  yaw: -164.85132
+  pitch: 35.999905
+turtles:
+  world: world
+  x: -2239.2182535108523
+  y: 62.0
+  z: -15.698276432726002
+  yaw: -17.695312
+  pitch: 36.75012
+  icon: TURTLE_EGG
