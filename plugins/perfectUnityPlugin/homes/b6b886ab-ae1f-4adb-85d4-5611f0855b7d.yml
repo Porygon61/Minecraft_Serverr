@@ -282,12 +282,12 @@ raid_farm:
   pitch: 18.450602
   icon: TOTEM_OF_UNDYING
 temp:
-  world: world
-  x: -1262.9392461237433
-  y: 68.0
-  z: -771.5819955156445
-  yaw: -32.400024
-  pitch: 31.349977
+  world: world_nether
+  x: -198.40469810383064
+  y: 18.0
+  z: 65.10354371652794
+  yaw: -34.387615
+  pitch: 1.3507868
   icon: MAP
 snow_mountain1:
   world: world

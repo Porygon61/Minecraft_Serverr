@@ -10,3 +10,8 @@ earth:
   texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDhkZDBlYjVjMDEwNzhmMTg0MzM0NTY1ZjEzMjQyMTE5YWI1MTQ3Nzc3NDcyMWQ2ZTUzYzcxYzM5ODYxM2E1NiJ9fX0=
   display-color: §b
   display: earth
+robot:
+  type: custom
+  texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGJjYWVkODQzMWUyMzJiNGM5NmJmZDkzMTFiOTc1NWZhZDk4M2Q5MjA5MWQ4OTZkODBlMTljZTJlZGU2N2Q4NCJ9fX0=
+  display-color: §b
+  display: robot
