@@ -344,11 +344,11 @@ remnant_stables2:
   pitch: 56.100014
 miningprogress:
   world: world
-  x: -2416.828664671387
-  y: -49.0
-  z: -1811.8870883528446
-  yaw: -119.09314
-  pitch: 29.399977
+  x: -1256.3049667588077
+  y: -33.0
+  z: -294.5533848465481
+  yaw: 178.69714
+  pitch: 43.05002
 spider_spawner:
   world: world
   x: -2412.2650337884693
@@ -665,3 +665,45 @@ turtles:
   yaw: -17.695312
   pitch: 36.75012
   icon: TURTLE_EGG
+enderman_farm:
+  world: world_the_end
+  x: -220.3619780366039
+  y: 57.0
+  z: 32.3762967588682
+  yaw: 90.60006
+  pitch: 15.149979
+mineshaft3:
+  world: world
+  x: -1091.8880816882959
+  y: 0.0
+  z: -593.5084359124367
+  yaw: 92.9491
+  pitch: 25.050537
+zombie_spawner5:
+  world: world
+  x: -1065.798456198718
+  y: -6.0
+  z: -526.7362814044719
+  yaw: 154.99847
+  pitch: 16.949831
+zombie_spawner6:
+  world: world
+  x: -1257.3708193937543
+  y: -33.0
+  z: -295.3801047568438
+  yaw: -150.55287
+  pitch: 42.44996
+spider_spawner1:
+  world: world
+  x: -1240.4619221589637
+  y: -35.0
+  z: -295.1496876715252
+  yaw: 43.39742
+  pitch: 23.249956
+spider_spawner6:
+  world: world
+  x: -1471.6531740137364
+  y: 71.0
+  z: -553.5428811634729
+  yaw: 55.943607
+  pitch: 42.00008
